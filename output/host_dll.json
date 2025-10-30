@@ -17,6 +17,13 @@
       }
     },
     "enums": {
+      "CCSPlayerController_DamageServices": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
       "C_RagdollProp": {
         "alignment": 17,
         "members": {
